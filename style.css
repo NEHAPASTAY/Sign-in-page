@@ -1,0 +1,50 @@
+form{
+ background: linear-gradient(45deg, pink,lightskyblue,darkgreen);
+ background-color: lightcoral;
+ margin: 200px;
+ float: left;
+ padding: 100px;
+ position: absolute;
+ left: 20%;
+ bottom: -10%;
+ border: 5px solid black;
+ border-style: groove;
+
+}
+label{
+ font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+ font-size: 20px;
+}
+input{
+ font-size: 20px;
+}
+button{
+ font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+ width: 250px;
+ border-radius: 20px;
+ position: absolute;
+ left: 23%;
+ bottom: 8%;
+ font-size: 20px;
+ padding: 5px;
+margin-bottom: 120px;
+
+}
+button:hover {
+     background: linear-gradient(45deg, #2196F3, #4CAF50);
+ }
+
+.text{
+ text-align: center;
+ margin-top: 90px;
+}
+p{
+ font-size: 19px;
+}
+h1{
+ color: darkred;
+ text-align: center;
+ box-shadow: 0 0 20px lightskyblue;
+}
+
