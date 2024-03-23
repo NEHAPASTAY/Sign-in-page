@@ -1,0 +1,50 @@
+body{
+    background-image: url("https://i.pinimg.com/originals/d9/6d/f8/d96df85bfc9c2d262f64fc4164c0e754.jpg");
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;    
+}
+h1{
+    color: whitesmoke;
+    margin-top: 100px;
+    padding: 50px;
+    margin-bottom: 40px;
+    font-size: 90px; 
+    text-shadow: 0 0 20px darkred;  
+}
+div{
+     margin: 30px; 
+     padding: 10px;
+    left: 800px;
+    bottom: 200px;
+    position: absolute;
+    
+}
+.sign-in{
+   
+    color: whitesmoke;
+    margin-top: -1000px;
+    float: right;
+    margin: -10px 0 0 -10px;
+    margin-top: 40px 0 0 90px;
+     padding-top: -30%;
+
+}
+input[type="text"]{
+    width: 300px;
+    box-sizing: border-box;
+   font-size: 20px;
+}
+button{
+    width: 100px;
+    margin-top: 30px ;
+    font-size: -20px;
+    padding: 10px;
+    text-align: justify;
+    cursor: pointer;
+
+}
+button:hover{
+    background-color: hotpink;
+}
+   
