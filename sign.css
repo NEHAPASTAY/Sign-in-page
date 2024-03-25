@@ -10,7 +10,7 @@ h1{
     padding: 50px;
     margin-bottom: 40px;
     font-size: 90px; 
-    text-shadow: 0 0 20px darkred;  
+    text-shadow: 0 0 20px darkred, 0 0 50px darkmagenta;  
 }
 div{
      margin: 30px; 
@@ -45,6 +45,6 @@ button{
 
 }
 button:hover{
-    background-color: hotpink;
+    background-color: hotpink;
 }
-   
+
